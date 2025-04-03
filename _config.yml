@@ -57,34 +57,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Michael Pierre"
+  avatar : "/assets/images/h-bio-photo.jpg"
+  bio    : "I'm a full-time independent bug bounty hunter specializing in identifying vulnerabilities in AI and machine learning systems, including generative applications, codebases, and libraries. I participate in multiple bug bounty platforms focused on securing AI/ML infrastructure. My work involves deep security testing and code analysis to uncover hidden threats in modern AI systems."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/michaelpierre"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+   #   url: "https://github.com/"
+   # - label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/michaelpierre"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
