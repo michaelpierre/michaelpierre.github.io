@@ -8,7 +8,7 @@ title: "AI Security Research & Bug Bounty Hunting"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header.jpg  # Replace with your hero image
+  overlay_image: /assets/images/banner.png  # Replace with your hero image
   actions:
     - label: "View Vulnerabilities I Specialize In"
       url: "#vulnerabilities"
