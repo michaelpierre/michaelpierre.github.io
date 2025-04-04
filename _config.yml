@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Michael Pierre"
-  avatar : "/assets/images/h-bio-photo.png"
+  avatar : "/assets/images/ai_defender.png"
   bio    : "I'm a full-time independent bug bounty hunter specializing in identifying vulnerabilities in AI and machine learning systems, including generative applications, codebases, and libraries. I participate in multiple bug bounty platforms focused on securing AI/ML infrastructure. My work involves security testing and code analysis to uncover hidden threats in modern AI systems."
   links:
     - label: "Website"
